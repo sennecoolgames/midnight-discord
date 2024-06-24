@@ -1105,7 +1105,7 @@ html.theme-light,
 	--status-positive: var(--green-360);
 	--status-positive-background: var(--green-430);
 	--status-positive-text: var(--text-0);
-	--status-speaking: var(--online-indicator);
+	--status-speaking: var(--green-430); /* --green-430 */
 	--status-warning: var(--yellow-300);
 	--status-warning-background: var(--yellow-300);
 	--status-warning-text: var(--black-500);
