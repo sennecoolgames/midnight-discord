@@ -31,6 +31,8 @@ forked from <https://github.com/refact0r/midnight-discord/>
 
 bubble text bar from <https://github.com/discord-extensions/bubble-bar/tree/master>
 
+settings icons from <https://github.com/MiniDiscordThemes/SettingsIcons>
+
 original design inspired by <https://github.com/schnensch0/zelk>
 
 thanks to all the [contributors](https://github.com/refact0r/midnight-discord/graphs/contributors)!
