@@ -1128,7 +1128,7 @@ html.theme-light,
 }
 
 /* Circle arount speaking people */
-.avatarSpeaking_cdc675 .speaking_ba4b17 {
+.avatarSpeaking_cdc675 {
     box-shadow: inset 0 0 0 2px var(--online-indicator),inset 0 0 0 3px var(--background-secondary);
 }
 
